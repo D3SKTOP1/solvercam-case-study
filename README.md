@@ -1,6 +1,8 @@
 # SolverCam — Edge AI for physical retail (case study)
 
 > I'm co-founder and **CTO** of SolverCam. The product code is proprietary; this repository explains **what we built, how it works and the engineering decisions behind it**. Website: [solvercam.com](https://solvercam.com)
+>
+> SolverCam is a member of **NVIDIA Inception**, NVIDIA's program for AI startups. The product runs on the NVIDIA edge stack: Jetson Orin Nano, DeepStream, TensorRT and PeopleNet.
 
 ## The problem
 
